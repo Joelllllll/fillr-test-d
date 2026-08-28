@@ -20,4 +20,4 @@ A couple of things to keep in mind:
 * Be ready to walk through your solution and reasoning live, including the parts an AI tool wrote.
 
 ## Submission
-Please submit your code test in a public GitHub repo and notify mujtaba.hussain@rakuten.com or dennis.hou@rakuten.com when you are done!
+Please submit your code test in a public GitHub repo and notify dennis.hou@rakuten.com when you are done!
